@@ -58,6 +58,10 @@ Next.js é um framework criado pela **Vercel** que estende o React com funcional
    Would you like to use App Router? (recommended) Yes
    Would you like to use Turbopack? (recommended) Yes
    Would you like to customize the import alias (`@/*` by default)? Yes
+   ```
+
+   Na questão abaixo, pressione `<ENTER>`:
+   ```
    What import alias would you like configured? @/*
    ```
 
